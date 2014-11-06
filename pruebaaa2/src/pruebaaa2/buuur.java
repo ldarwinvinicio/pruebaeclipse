@@ -6,6 +6,7 @@ public class buuur {
 		// TODO Auto-generated method stub
 System.out.print("hooollla");
 System.out.print("hooollla123456");
+System.out.print("dario");
 	}
 
 }
